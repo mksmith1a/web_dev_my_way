@@ -1,5 +1,5 @@
 <?php
-$gmapkey = 'AIzaSyAur3fnSajZPYQvijG9WOPHfv__nkOKjzg';
+$gmapkey = '*************************************';
 $lat = '40.800533';
 $lng = '-81.375547';
 $addr = '324 Cleveland Ave NW, Canton, OH 44702';
